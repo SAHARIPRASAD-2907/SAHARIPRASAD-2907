@@ -33,7 +33,8 @@
   - [Todo App](https://sahariprasad-2907.github.io/javascript_plain/final-app-css/todo-app/todos.html)
 - Next js Projects
   - [google clone](https://google-nextjs-clone-smoky.vercel.app)
-  - Hulu Clone -  currently working
+  - [Hulu Clone](https://vercel.com/sahariprasad-2907/hulu-clone-nextjs/AJ1Fd4gdwwcDKmPX8tRRBMEvihsF)
+  - [sportify clone] - currently working
 - React Projects 
   - [Indecision App](https://sahariprasad-2907.github.io/INDECISION-APP/)
   - [Moster card filter](https://sahariprasad-2907.github.io/react-1-monster-roldex/)
