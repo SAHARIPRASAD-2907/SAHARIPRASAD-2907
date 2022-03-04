@@ -27,6 +27,8 @@
 
 <h3 align="left">Deployed Projects</h3>
 
+- [Dashboard of projects](https://sahariprasad-2907.github.io/javascript_plain/)
+
 - Javascript projects
   - [Notes App](https://sahariprasad-2907.github.io/javascript_plain/final-app-css/notes-app/notes.html)
   - [Hangman App](https://sahariprasad-2907.github.io/javascript_plain/final-app-css/hangman/hangman.html)
