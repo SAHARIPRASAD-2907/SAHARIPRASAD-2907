@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahariprasad-2907" alt="sahariprasad-2907" /></a> </p>
 
-- 🌱 I’m currently learning **node js,DSA with java,React js**
+- 🌱 I’m currently learning **NextJS,RUST & graphQL**
 
 - 👨‍💻 All of my projects are available at [https://hariprasadportfolio.netlify.app/](https://hariprasadportfolio.netlify.app/)
 
