@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **NextJS,RUST & graphQL**
 
-- 👨‍💻 All of my projects are available at [https://hariprasadportfolio.netlify.app/](https://hariprasadportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at (new page under construction)
 
-- 📝 I regularly write articles on [https://hariprasadportfolio.netlify.app/](https://hariprasadportfolio.netlify.app/)
+- 📝 I regularly write articles on [my-blog](https://hari290700.hashnode.dev/)
 
 - 💬 Ask me about **python and js**
 
