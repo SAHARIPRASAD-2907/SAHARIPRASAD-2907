@@ -30,6 +30,7 @@
 - [Dashboard of projects](https://sahariprasad-2907.github.io/javascript_plain/)
 
 - Javascript projects
+  - [Games](https://javascript-games-kappa.vercel.app/)
   - [Notes App](https://sahariprasad-2907.github.io/javascript_plain/final-app-css/notes-app/notes.html)
   - [Hangman App](https://sahariprasad-2907.github.io/javascript_plain/final-app-css/hangman/hangman.html)
   - [Todo App](https://sahariprasad-2907.github.io/javascript_plain/final-app-css/todo-app/todos.html)
