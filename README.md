@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **myharicode@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sahari290700/](https://www.linkedin.com/in/s-a-hariprasad-291b7b1a2/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/hariprasad-sivapatham-anand-291b7b1a2/)
 
 - ⚡ Fun fact **I am a big fan of designing**
 
