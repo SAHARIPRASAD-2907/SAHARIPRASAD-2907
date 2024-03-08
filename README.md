@@ -37,7 +37,6 @@
 - Next js Projects
   - [google clone](https://google-nextjs-clone-smoky.vercel.app)
   - [Hulu Clone](https://hulu-clone-nextjs-4kpn5009u-sahariprasad-2907.vercel.app)
-  - [sportify clone] - currently working
 - React Projects 
   - [Indecision App](https://sahariprasad-2907.github.io/INDECISION-APP/)
   - [Moster card filter](https://sahariprasad-2907.github.io/react-1-monster-roldex/)
